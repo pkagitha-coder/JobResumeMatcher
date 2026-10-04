@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Runtime state
+last_run_timestamp.txt
+
+# Resume and report files (User data)
+resume/*
+!resume/.gitkeep
+reports/*
+!reports/.gitkeep

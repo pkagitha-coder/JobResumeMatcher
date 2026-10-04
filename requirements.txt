@@ -1,0 +1,4 @@
+python-jobspy>=1.1.82
+ollama>=0.6.2
+pandas>=2.0.0
+pypdf>=5.0.0
